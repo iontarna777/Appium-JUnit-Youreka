@@ -1,0 +1,4 @@
+com\synaptic\library\pages\android\HomeAndroidPage.class
+com\synaptic\library\pages\android\LoginAndroidPage.class
+com\synaptic\library\step_definitions\Hooks.class
+com\synaptic\library\pages\android\HamburgerMenuAndroidPage.class
